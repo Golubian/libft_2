@@ -3,3 +3,8 @@
 • ft_itoa
 • ft_strmapi
 • ft_striteri
+
+
+Bonus
+• ft_lstiter
+• ft_lstmap
